@@ -6,4 +6,4 @@
 
 test...
 
-git commit test jenkins as linux rhel
+git commit test jenkins as linux nima
