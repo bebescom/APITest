@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a079ceb-21d6-4f3d-b5eb-4c0422370886" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/1.text" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.text" beforeDir="false" afterPath="$PROJECT_DIR$/1.text" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,8 +31,8 @@
       <file leaf-file-name="1.text" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/1.text">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+            <state relative-caret-position="80">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -74,9 +73,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="578" />
-    <option name="y" value="16" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-127" />
+    <option name="y" value="93" />
     <option name="width" value="1400" />
     <option name="height" value="820" />
   </component>
@@ -194,7 +193,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1536116958133</updated>
-      <workItem from="1536116959816" duration="4428000" />
+      <workItem from="1536116959816" duration="4803000" />
     </task>
     <servers />
   </component>
@@ -207,10 +206,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4428000" />
+    <option name="totallyTimeSpent" value="4803000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="578" y="16" width="1400" height="820" extended-state="0" />
+    <frame x="-127" y="93" width="1400" height="820" extended-state="1" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -274,8 +273,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1.text">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        <state relative-caret-position="80">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
