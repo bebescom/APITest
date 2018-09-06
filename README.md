@@ -6,4 +6,4 @@
 
 test...
 
-git commit test jenkins as linux nima
+git commit test jenkins as linux nima 给对方
