@@ -6,4 +6,4 @@
 
 test...
 
-fuck
+firewall stop
